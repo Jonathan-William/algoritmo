@@ -1,0 +1,149 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Página-1" id="sozQ-eNmJCscKQdJ2B1G">
+    <mxGraphModel dx="1687" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tisoYPnN5JIa4hkCrfbF-1" target="tisoYPnN5JIa4hkCrfbF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tisoYPnN5JIa4hkCrfbF-2" target="tisoYPnN5JIa4hkCrfbF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-2" value="real peso&lt;div&gt;real altura&lt;/div&gt;&lt;div&gt;real imc&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tisoYPnN5JIa4hkCrfbF-4" target="tisoYPnN5JIa4hkCrfbF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-4" value="escreva &quot;peso:&quot;&lt;div&gt;leia(peso)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tisoYPnN5JIa4hkCrfbF-6" target="tisoYPnN5JIa4hkCrfbF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-6" value="escreva &quot;altura&quot;&lt;div&gt;leia(altura)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tisoYPnN5JIa4hkCrfbF-8" target="tisoYPnN5JIa4hkCrfbF-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-8" value="imc = peso/(altura*altura)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tisoYPnN5JIa4hkCrfbF-10" target="tisoYPnN5JIa4hkCrfbF-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tisoYPnN5JIa4hkCrfbF-10" target="tisoYPnN5JIa4hkCrfbF-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-10" value="se imc &amp;lt;= 18,5" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="760" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-12" value="&quot;seu imc é&quot;, imc, &quot;logo você tem magreza, obesidade grau 0&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="770" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tisoYPnN5JIa4hkCrfbF-14" target="tisoYPnN5JIa4hkCrfbF-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tisoYPnN5JIa4hkCrfbF-14" target="tisoYPnN5JIa4hkCrfbF-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-14" value="se imc &amp;lt;= 24,9" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="960" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-16" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&quot;seu imc é&quot;, imc, &quot;logo você tem o peso normal, obesidade grau 0&quot;&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="970" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-18" value="V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="390" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-19" value="F" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="390" y="840" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tisoYPnN5JIa4hkCrfbF-20" target="tisoYPnN5JIa4hkCrfbF-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tisoYPnN5JIa4hkCrfbF-20" target="tisoYPnN5JIa4hkCrfbF-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-20" value="se imc &amp;lt;= 29,9" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1160" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-22" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&quot;seu imc é&quot;, imc, &quot;logo você tem sobrepeso, obesidade grau 1&quot;&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1170" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tisoYPnN5JIa4hkCrfbF-24" target="tisoYPnN5JIa4hkCrfbF-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tisoYPnN5JIa4hkCrfbF-24" target="tisoYPnN5JIa4hkCrfbF-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-24" value="se imc &amp;lt;= 39,9" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1360" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-26" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&quot;seu imc é&quot;, imc, &quot;logo você tem obesidade grau 2&quot;&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1370" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-28" value="V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="970" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-29" value="F" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1060" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-30" value="V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1169" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-31" value="F" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-32" value="V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-33" value="F" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.84;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tisoYPnN5JIa4hkCrfbF-34" target="tisoYPnN5JIa4hkCrfbF-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-34" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&quot;seu imc é&quot;, imc, &quot;logo você tem obesidade grau 3&quot;&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1580" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-36" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1770" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tisoYPnN5JIa4hkCrfbF-12" target="tisoYPnN5JIa4hkCrfbF-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="980" as="sourcePoint" />
+            <mxPoint x="760" y="1810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="815" />
+              <mxPoint x="750" y="1810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="1010" as="sourcePoint" />
+            <mxPoint x="750" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="1214.41" as="sourcePoint" />
+            <mxPoint x="750" y="1214" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tisoYPnN5JIa4hkCrfbF-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="1414.8200000000002" as="sourcePoint" />
+            <mxPoint x="750" y="1414.41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
