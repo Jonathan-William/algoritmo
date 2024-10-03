@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Página-1" id="3tK05uUXol51DSn5xZ42">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="D7-g2bBcZ60XK-adxWXU-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D7-g2bBcZ60XK-adxWXU-2" value="Fim" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="840" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D7-g2bBcZ60XK-adxWXU-3" value="Entrada de dados" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="40" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D7-g2bBcZ60XK-adxWXU-4" value="Processamento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D7-g2bBcZ60XK-adxWXU-5" value="Decisões&lt;div&gt;Validar&amp;nbsp;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="32.5" width="90" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="D7-g2bBcZ60XK-adxWXU-6" value="Saída de dados impressão" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="40" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D7-g2bBcZ60XK-adxWXU-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D7-g2bBcZ60XK-adxWXU-7" target="D7-g2bBcZ60XK-adxWXU-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D7-g2bBcZ60XK-adxWXU-7" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D7-g2bBcZ60XK-adxWXU-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D7-g2bBcZ60XK-adxWXU-8" target="D7-g2bBcZ60XK-adxWXU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D7-g2bBcZ60XK-adxWXU-8" value="inteiro num&lt;div&gt;inteiro pot&lt;/div&gt;&lt;div&gt;inteiro ra&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="320" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D7-g2bBcZ60XK-adxWXU-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D7-g2bBcZ60XK-adxWXU-9" target="D7-g2bBcZ60XK-adxWXU-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D7-g2bBcZ60XK-adxWXU-9" value="escreva (&quot;Digite um número&quot;)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="430" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D7-g2bBcZ60XK-adxWXU-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D7-g2bBcZ60XK-adxWXU-10" target="D7-g2bBcZ60XK-adxWXU-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D7-g2bBcZ60XK-adxWXU-10" value="leia num" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="544.5" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D7-g2bBcZ60XK-adxWXU-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D7-g2bBcZ60XK-adxWXU-14" target="D7-g2bBcZ60XK-adxWXU-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D7-g2bBcZ60XK-adxWXU-14" value="pot = num*num" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="545" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D7-g2bBcZ60XK-adxWXU-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D7-g2bBcZ60XK-adxWXU-19" target="D7-g2bBcZ60XK-adxWXU-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D7-g2bBcZ60XK-adxWXU-19" value="ra = raiz(num)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="545" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D7-g2bBcZ60XK-adxWXU-21" value="escreva (&quot;O número informado foi&quot;, num, &quot;sua raiz é&quot;, ra, &quot;e sua potencia é&quot;, pot)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="690" width="160" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
